@@ -1,0 +1,24 @@
+{
+  "name": "isit320-thukral-2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "nodemon": "^1.18.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukhmani/isit320-thukral-2017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukhmani/isit320-thukral-2017/issues"
+  },
+  "homepage": "https://github.com/sukhmani/isit320-thukral-2017#readme"
+}
